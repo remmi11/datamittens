@@ -1,0 +1,2 @@
+function myFunction(){var n=!1,e=document.getElementById("id_username").value,a=document.getElementById("id_password").value;credentials.map(function(t,s){e==t.username&&a==t.password&&(window.location="maintenance.html",n=!0)}),0==n&&alert("Username or password is incorrect. Please try again.")}
+var credentials=[{username:"nhuntington",password:"gdipass2"},{username:"pbetesko",password:"gdipass1"}]

@@ -1,0 +1,27 @@
+https://a2plcpnl0918.prod.iad2.secureserver.net:2083/cpsess9277999565/frontend/paper_lantern/index.html?login=1&post_login=6996004987697
+
+
+    <!-- <script>
+        var credentials = [
+            { "username": "nhuntington", "password": "gdipass1" },
+            { "username": "kning", "password": "gdipass2" }
+        ];
+
+        function myFunction() {
+            var flag = false;
+
+            var username = document.getElementById("id_username").value;
+            var password = document.getElementById("id_password").value;
+
+            credentials.map(function (item, index) {
+                if (username == item['username'] && password == item['password']) {
+                    window.location = "maintenance.html"; // Redirecting to other page.
+                    flag = true;
+                }
+            });
+
+            if (flag == false) {
+                alert("authenitcation error!");
+            }
+        }
+    </script> -->
